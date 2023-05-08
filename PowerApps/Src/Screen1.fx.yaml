@@ -1,0 +1,13 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Semibold
+        Height: =336
+        Size: =30
+        Text: ="Hello Sathya"
+        Width: =1288
+        X: =40
+        Y: =40
+        ZIndex: =1
+
