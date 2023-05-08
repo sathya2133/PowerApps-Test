@@ -11,7 +11,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/08/2023 07:09:14",
+  "HeaderLastSavedDateTimeUTC": "05/08/2023 07:09:34",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -39,8 +39,8 @@
   "PublishOrderIndices": {
     "App": 0,
     "Host": 0,
-    "Label1": 4,
-    "Label1_1": 4,
+    "Label1": 0,
+    "Label1_1": 1,
     "Screen1": 3,
     "Screen2": 0
   },
