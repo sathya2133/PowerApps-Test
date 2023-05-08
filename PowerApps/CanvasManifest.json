@@ -110,7 +110,7 @@
     "Id": "42070ad4-cfcc-4660-8fed-d91f7e710f7f",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": "",
+    "ManualOfflineProfileId": null,
     "Name": "Multi Developer Login",
     "OriginatingVersion": "1.330",
     "ParserErrorCount": 0
