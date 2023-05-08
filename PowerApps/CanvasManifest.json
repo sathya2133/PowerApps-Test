@@ -91,7 +91,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -110,7 +110,7 @@
     "Id": "42070ad4-cfcc-4660-8fed-d91f7e710f7f",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Multi Developer Login",
     "OriginatingVersion": "1.330",
     "ParserErrorCount": 0
