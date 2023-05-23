@@ -1,2 +1,10 @@
 Screen1 As screen:
 
+    Label1 As label:
+        Height: =216
+        Text: ="Hello sathya shiva"
+        Width: =1216
+        X: =40
+        Y: =40
+        ZIndex: =1
+
