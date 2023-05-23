@@ -5,7 +5,7 @@ Screen1 As screen:
         FontWeight: =FontWeight.Semibold
         Height: =336
         Size: =30
-        Text: ="Sathya Changed the screen 1"
+        Text: ="Sathya Changed the screen first time"
         Width: =1288
         X: =40
         Y: =40
